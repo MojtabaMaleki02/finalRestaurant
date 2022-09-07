@@ -1,0 +1,29 @@
+{
+    "welcome": {
+        "title": "Welcome",
+        "signUp":"Sign Up",
+        "FName": "First Name",
+        "LName": "Last Name",
+        "Username": "Username",
+        "Email": "Email",
+        "Password":"Password",
+        "Register":"Register",
+        "text1":"Already have an account?",
+        "logIn":"Log in",
+        "text2": "You don't have account?",
+        "text3":"Sort by name ",
+        "Range":"Range",
+        "text5":"Sort by distance",
+        "text6":"Add your resturant",
+        "add":"add",
+        "submit":"submit",
+        "NewMenu":"New menu",
+        "AddRes":"Add your resturant",
+        "resName":"Restaurant Name",
+        "Distance":"Distance",
+        "ImageURL":"Image URL",
+        "Vote":"Vote",
+        "MenuURL":"Menu URL"
+    }
+
+}
